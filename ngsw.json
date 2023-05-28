@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1685233122625,
+  "timestamp": 1685252635057,
   "index": "https://acdlpg.github.io/ejemplo/index.html",
   "assetGroups": [
     {
@@ -29,11 +29,11 @@
         "ignoreVary": true
       },
       "urls": [
-        "https://acdlpg.github.io/ejemplo/assets/icons/icon-120x120.png",
+        "https://acdlpg.github.io/ejemplo/assets/icons/icon-128x128.png",
         "https://acdlpg.github.io/ejemplo/assets/icons/icon-144x144.png",
         "https://acdlpg.github.io/ejemplo/assets/icons/icon-152x152.png",
         "https://acdlpg.github.io/ejemplo/assets/icons/icon-192x192.png",
-        "https://acdlpg.github.io/ejemplo/assets/icons/icon-310x310.png",
+        "https://acdlpg.github.io/ejemplo/assets/icons/icon-384x384.png",
         "https://acdlpg.github.io/ejemplo/assets/icons/icon-512x512.png",
         "https://acdlpg.github.io/ejemplo/assets/icons/icon-72x72.png",
         "https://acdlpg.github.io/ejemplo/assets/icons/icon-96x96.png"
@@ -43,14 +43,14 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "https://acdlpg.github.io/ejemplo/assets/icons/icon-120x120.png": "4beceb960f87c68dd5facff16433b601e0281b8c",
-    "https://acdlpg.github.io/ejemplo/assets/icons/icon-144x144.png": "e2398f1bee64abbc3506121727c4c0c1b5960d80",
-    "https://acdlpg.github.io/ejemplo/assets/icons/icon-152x152.png": "28f03e5396c52a6c2a66a2f0921fc3137014086b",
-    "https://acdlpg.github.io/ejemplo/assets/icons/icon-192x192.png": "04e70e983424898364aa72f30cc9a9b96c841e64",
-    "https://acdlpg.github.io/ejemplo/assets/icons/icon-310x310.png": "aa64098eb941440f0e022c5ee77084c924e62d53",
-    "https://acdlpg.github.io/ejemplo/assets/icons/icon-512x512.png": "7a388aaa6773cd93511eb8a0044474f6e4691199",
-    "https://acdlpg.github.io/ejemplo/assets/icons/icon-72x72.png": "15082ae73fccc3c8818a5c7203eb8c77a7358b97",
-    "https://acdlpg.github.io/ejemplo/assets/icons/icon-96x96.png": "1fff5c40e811f7d2f4ba33a144a227242ccff52c",
+    "https://acdlpg.github.io/ejemplo/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://acdlpg.github.io/ejemplo/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://acdlpg.github.io/ejemplo/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://acdlpg.github.io/ejemplo/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://acdlpg.github.io/ejemplo/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://acdlpg.github.io/ejemplo/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://acdlpg.github.io/ejemplo/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://acdlpg.github.io/ejemplo/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://acdlpg.github.io/ejemplo/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
     "https://acdlpg.github.io/ejemplo/index.html": "f2ef20ebfd1903c4c5830253d21ebc81362ab410",
     "https://acdlpg.github.io/ejemplo/main.e41275f1b1ad099e.js": "b32004bd317b576e2188931728458e6ece6be274",

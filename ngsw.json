@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1685417172887,
+  "timestamp": 1685417463225,
   "index": "https://acdlpg.github.io/ejemplopwa/index.html",
   "assetGroups": [
     {
@@ -17,7 +17,7 @@
         "https://acdlpg.github.io/ejemplopwa/manifest.webmanifest",
         "https://acdlpg.github.io/ejemplopwa/polyfills.628dc75f262e8906.js",
         "https://acdlpg.github.io/ejemplopwa/runtime.ebe64ec9d3c4b59f.js",
-        "https://acdlpg.github.io/ejemplopwa/styles.93f73683cb1e7e83.css"
+        "https://acdlpg.github.io/ejemplopwa/styles.fd3ecd40a160111e.css"
       ],
       "patterns": []
     },
@@ -52,12 +52,12 @@
     "https://acdlpg.github.io/ejemplopwa/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "https://acdlpg.github.io/ejemplopwa/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "https://acdlpg.github.io/ejemplopwa/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://acdlpg.github.io/ejemplopwa/index.html": "b9698e00575310e38c1c35cce86c791ab16a073a",
+    "https://acdlpg.github.io/ejemplopwa/index.html": "cbcaac523d9d3628ef0c1939c48ba2ccd050c47b",
     "https://acdlpg.github.io/ejemplopwa/main.ecef12f46f0f2ac7.js": "a50eaa29fa00cd81aca20f2bc942f0b553a0819b",
     "https://acdlpg.github.io/ejemplopwa/manifest.webmanifest": "3b29f340c92913c7606dfbe3046554ef835afee6",
     "https://acdlpg.github.io/ejemplopwa/polyfills.628dc75f262e8906.js": "aa5f380d4c61346ba9a87429c4f933430811a39f",
     "https://acdlpg.github.io/ejemplopwa/runtime.ebe64ec9d3c4b59f.js": "7e2d81d6efa544cf35e5a1fc0a299c6eef61436b",
-    "https://acdlpg.github.io/ejemplopwa/styles.93f73683cb1e7e83.css": "f2224219b0aeb2967e810d3877abf2054c3078ec"
+    "https://acdlpg.github.io/ejemplopwa/styles.fd3ecd40a160111e.css": "cffb9eff9f33685de672a179e3f5e772192d2bbd"
   },
   "navigationUrls": [
     {
